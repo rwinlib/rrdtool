@@ -1,7 +1,6 @@
 name: bundle binaries
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
